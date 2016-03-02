@@ -12,6 +12,10 @@ and open the template in the editor.
     <body>
         <h1>Hello World</h1>
         
+
         <div>Edit on PC</div>
+
+        <div>Edit on github</div>
+
     </body>
 </html>
