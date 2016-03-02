@@ -12,6 +12,10 @@ and open the template in the editor.
     <body>
         <h1>Hello World</h1>
         
+<<<<<<< HEAD
         <div>Edit on PC</div>
+=======
+        <div>Edit on github</div>
+>>>>>>> 6d0d2d8fde60e15e1a4abf9b9fcb7c9bc740bf7e
     </body>
 </html>
